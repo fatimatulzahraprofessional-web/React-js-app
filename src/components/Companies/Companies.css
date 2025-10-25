@@ -1,0 +1,9 @@
+.c-container{
+    justify-content: center;
+    /* gap: 4rem; */
+    transform: scale(0.75);
+    transform-origin: top center;
+}
+.c-container>img{
+    width: 7rem;
+}
